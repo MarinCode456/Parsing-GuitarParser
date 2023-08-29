@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://sun3-20.userapi.com/impg/n0aDxbJocnCl1YTJYl0mIRLeatygS-RYMzBPRg/sP88p-BfyXE.jpg?size=1400x800&quality=96&sign=daeb4a52457696116accb0de277720f6&type=album" width="726">
+      <img src="https://sun9-39.userapi.com/impg/E5s4J9ZKL_TA3nnsqFvmjI_JY0sLt4c-GfTgXw/lMI2e7MbhIs.jpg?size=1400x800&quality=96&sign=f810b23568d066c01e3e720f13b97a16&type=album" width="726">
 </p>
 
 ## О проекте
