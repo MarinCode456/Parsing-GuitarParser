@@ -134,5 +134,5 @@ def getGuitars():
                 await asyncio.gather(*packet)
                 print(f"    [GuitarParser] Загружено {packet_end} из {total_tasks} гитар")
 
-    loop = asyncio.get_event_loop()
+    loop = asyncio.new_event_loop()
     loop.run_until_complete(main())

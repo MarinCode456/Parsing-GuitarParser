@@ -1,0 +1,5 @@
+komi_upper_value: 25000
+muztorg_upper_value: 25000
+avito_upper_value: 25000
+lovec_upper_value: 25000
+jazz_upper_value: 25000
