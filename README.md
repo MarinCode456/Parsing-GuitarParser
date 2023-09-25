@@ -18,10 +18,10 @@ upd. С недавнего времени у GuitarParser есть также с
 
 ## Скриншоты программы
 <p align="center">
-      <img src="https://sun9-30.userapi.com/impg/pjlmJy_6JWOCWGRlhpC12miQdmb_kW54RTyn3Q/TVqluXvdAF8.jpg?size=1278x748&quality=96&sign=f76275503d0951aa384de1e6cc7795bc&type=album" width="726">
-      <img src="https://sun3-22.userapi.com/impg/30zsKJ7UFLrWU-9gnEg-iYSmV2cjzrmIkb00bw/Fy8PlWPkg9g.jpg?size=1278x748&quality=96&sign=6ee8517d9cd1d2b2ca25f5d107a94423&type=album" width="726">
-      <img src="https://sun3-16.userapi.com/impg/ArmkiSWEJVG_iE5ne2z4GkhuVQx5WJZHQ7B0sg/XH8hQthDouA.jpg?size=1278x748&quality=96&sign=92193ab9e6d90e88b0b2885ce9f84b02&type=album" width="726">
-      <img src="https://sun9-45.userapi.com/impg/gLh-7aDkprT-oqabU8EjYX8FDgr97-1ZkxUgvw/-JQTXQqzyTU.jpg?size=1278x748&quality=96&sign=5d95364ee5d4b24d024c50090fd82646&type=album" width="726">
+      <img src="https://sun9-2.userapi.com/impg/yztkX8367UHWWI1Ovbv1Jj8T8LkBDFu3TkCtwQ/LBrSTUiSA3M.jpg?size=1271x744&quality=96&sign=3f34a9def01ec4687c8bed3fec0a92bf&type=album" width="726">
+      <img src="https://sun9-57.userapi.com/impg/F8eEusSqhz-TPatdMATdE8qVA8P0MvP3twHtjA/-_B0ATy_LZo.jpg?size=1272x745&quality=96&sign=b9917db325b7896a2d6d19a3143909ec&type=album" width="726">
+      <img src="https://sun9-32.userapi.com/impg/aIEiIJ_TfC6MWPnA_dQ-3Ug12fYJ2EbWBdbx9A/6i59PT_evUs.jpg?size=1273x749&quality=96&sign=ced7f149abced66a9d7796e8f1278937&type=album" width="726">
+      <img src="https://sun3-5.userapi.com/impg/FSKtv6zD6CXmvo6PmfZUlIsYD-f7V-IrQWuSgw/YvnQ0m7uk8s.jpg?size=1271x745&quality=96&sign=36c1715d1ab5c7ddb6c32f76d982966b&type=album" width="726">
 </p>
 
 ## Особенности проекта
